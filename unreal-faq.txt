@@ -1,0 +1,23 @@
+Where do I get started learning Unreal?
+https://learn.unrealengine.com/
+
+I'm a programmer and I want to get started, what should I do?
+I'd recommend spending some time in Blueprints. That way you learn the UE4 API (as BP is just exposed C++ API), why and how to use them as they will be a big part of your workflow (for the better I can assure you).
+
+But here are some additional handy links to go along side the learning site:
+Intro to C++ | Unreal
+https://docs.unrealengine.com/en-US/Programming/Introduction/index.html
+C++ Programming Tutorials - Unreal
+https://docs.unrealengine.com/en-US/Programming/Tutorials/index.html
+Intro to Unreal Engine C++ Tutorial - Tom Looman
+https://www.youtube.com/watch?v=D4UM73O7Zxs
+[22:19]
+---‐---------------‐------------
+Q: Should I use BP or C++?
+https://www.youtube.com/watch?v=flEtQBPtBTc
+
+Q: Are blueprints slower then C++?
+https://www.youtube.com/watch?v=flEtQBPtBTc
+
+Official Docs on the matter
+https://docs.unrealengine.com/4.26/en-US/Resources/SampleGames/ARPG/BalancingBlueprintAndCPP/
